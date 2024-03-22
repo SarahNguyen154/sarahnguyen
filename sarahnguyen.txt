@@ -9,3 +9,6 @@ return (a + b); }
 
 division num3 (int a, int b) {
 return (a/b); }
+substraction num2 (int a, int b) {
+return (a-b); }
+
