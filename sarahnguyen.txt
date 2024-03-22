@@ -1,3 +1,4 @@
 hello
 int nums (int a, int b){ 
-nums = a + b; }
+return (a + b); }
+
